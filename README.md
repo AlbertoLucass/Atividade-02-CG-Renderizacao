@@ -45,7 +45,7 @@ $ git clone https://github.com/AlbertoLucass/Atividade-02-CG-Renderizacao.git
 
 ```sh
 # Acesse a pasta da aplicação através da linha de comando
-$ cd atividade-02-renderizacao-AlbertoLucass/renderizacao
+$ cd Atividade-02-CG-Renderizacao
 
 # Execute a aplicação em modo de desenvolvimento
 $ npm start
